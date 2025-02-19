@@ -1,10 +1,10 @@
 # Can override the default connection name with an environment variable as follows
-#export SNOWFLAKE_DEFAULT_CONNECTION_NAME="default"
+#export SNOWFLAKE_DEFAULT_CONNECTION_NAME="totnopj-ju30958"
 
 [default]
-account = "myaccount"
-user = "myuser"
-password = "mypassword"
+account = "totnopj-ju30958"
+user = "RANIADER"
+password = "W77Sbk4sZcARz8J"
 role = "HOL_ROLE"
 warehouse = "HOL_WH"
 database = "HOL_DB"
